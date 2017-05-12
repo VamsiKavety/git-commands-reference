@@ -6,7 +6,7 @@
 
 *[Tutorial Basic Commands: add, commit, push](##Tutorial Basic Commands: add, commit, push)
 
-#Tutorial Basic Commands: add, commit, push
+####Tutorial Basic Commands: add, commit, push
 -------------------------------------------
 You dont have any changes
 $ git status 
